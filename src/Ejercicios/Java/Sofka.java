@@ -1,5 +1,7 @@
 package Ejercicios.Java;
+import java.util.Locale;
 import java.util.Scanner;
+import javax.swing.JOptionPane;
 
 public class Sofka {
 
@@ -27,14 +29,6 @@ public class Sofka {
         }else {
             System.out.println(" la variable " + v1 + " es menor que "+v2);
         }
-
-        //Agregar entrada por consola de dos valores e indicar si son mayores, menores o iguales.
-
-
-
-
-
-
 
 
     }
