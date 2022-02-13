@@ -1,3 +1,4 @@
+////Muestra los números impares y pares del 1 al 100 (ambos incluidos). Usando for.
 public class ParImparFor {
 
     public static void main(String[] args) {
