@@ -1,0 +1,8 @@
+
+l	java:S116"PRename this field "Carga" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‰ç¸8ªÒÁ²ï/
+k
+java:S1845"NRename field "Carga" to prevent any misunderstanding/clash with field "CARGA".(…‰ç¸8«ÒÁ²ï/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÔÄ­Ø8®ÒÁ²ï/
+0
+java:S1220""Move this file to a named package.

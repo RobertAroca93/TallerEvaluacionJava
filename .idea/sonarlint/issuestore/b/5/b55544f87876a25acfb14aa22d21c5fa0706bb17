@@ -1,0 +1,43 @@
+
+m	java:S116"QRename this field "Nombre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÈ®ô8ëÁ£²ï/
+p	java:S116"ORename this field "Edad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»àêËüÿÿÿÿ8ìÁ£²ï/
+p	java:S116"ORename this field "Peso" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ™áÌûÿÿÿÿ8ìÁ£²ï/
+m	java:S116"QRename this field "Altura" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îê‘Ö8ìÁ£²ï/
+i	java:S116"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë£ç`8ìÁ£²ï/
+p	java:S116"ORename this field "Sexo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ·¢Óıÿÿÿÿ8ìÁ£²ï/
+C
+java:S1170"!Make this final field static too.(ô›ßÌøÿÿÿÿ8ìÁ£²ï/
+C
+java:S1170	"!Make this final field static too.(ã…óäøÿÿÿÿ8íÁ£²ï/
+C
+java:S1170
+"!Make this final field static too.(İŸÿÿÿÿÿ8íÁ£²ï/
+>
+java:S1170"!Make this final field static too.(‘ÇÍ8íÁ£²ï/
+^
+java:S1126+"AReplace this if-then-else statement by a single return statement.(˜”ºÌ8ôÁ£²ï/
+K
+java:S2140<")Use "java.util.Random.nextInt()" instead.( £¾‹øÿÿÿÿ8öÁ£²ï/
+G
+java:S1197D"*Move the array designators [] to the type.(ñÕ÷ò8úÁ£²ï/
+m	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô³Áí8ÿÁ£²ï/
+o
+java:S1104"RMake Nombre a static final constant or non-public and provide accessors if needed.(ıÈ®ô8ÿÁ£²ï/
+r
+java:S1104"PMake Edad a static final constant or non-public and provide accessors if needed.(»àêËüÿÿÿÿ8€Â£²ï/
+r
+java:S1104"PMake Peso a static final constant or non-public and provide accessors if needed.(ÿ™áÌûÿÿÿÿ8€Â£²ï/
+o
+java:S1104"RMake Altura a static final constant or non-public and provide accessors if needed.(Îê‘Ö8€Â£²ï/
+k
+java:S1104"OMake DNI a static final constant or non-public and provide accessors if needed.(Ë£ç`8€Â£²ï/
+r
+java:S1104"PMake Sexo a static final constant or non-public and provide accessors if needed.(ˆ·¢Óıÿÿÿÿ8€Â£²ï/
+0
+java:S1220""Move this file to a named package.
+S
+java:S11535"1Directly append the argument of String.valueOf().(’£ğŞúÿÿÿÿ8Â£²ï/
+S
+java:S11535"1Directly append the argument of String.valueOf().(’£ğŞúÿÿÿÿ8‚Â£²ï/
+N
+java:S11536"1Directly append the argument of String.valueOf().(äÄ×8‚Â£²ï/

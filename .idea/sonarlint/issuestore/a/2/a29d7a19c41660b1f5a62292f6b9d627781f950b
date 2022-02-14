@@ -1,0 +1,18 @@
+
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(à¢òá8óß ²ï/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨‹åøÿÿÿÿ8ùß ²ï/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Üè8úß ²ï/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(àÔ®¢8ûß ²ï/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Îšê8ûß ²ï/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¼Ã¬ëûÿÿÿÿ8þß ²ï/
+U	java:S106""9Replace this use of System.out or System.err by a logger.(îÐßç8þß ²ï/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(¶Ñ·Û8€à ²ï/
+>	java:S131&""Add a default case to this switch.(°¾ßÔ8‚à ²ï/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(³è°èùÿÿÿÿ8ƒà ²ï/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ƒ¶ÚÆûÿÿÿÿ8ƒà ²ï/
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(›…¯²ûÿÿÿÿ8„à ²ï/
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(´µØÿûÿÿÿÿ8…à ²ï/
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(è¼€ýýÿÿÿÿ8…à ²ï/
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(çîÍðøÿÿÿÿ8‡à ²ï/
+0
+java:S1220""Move this file to a named package.

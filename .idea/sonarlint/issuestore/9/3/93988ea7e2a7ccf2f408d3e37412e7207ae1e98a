@@ -1,0 +1,15 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "v2".(å¶‘’şÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "v1".(é²ûúùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÎ˜êüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÕËÆì
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÛœÂ•
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıèãÛ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(úÅ»ıÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'javax.swing.JOptionPane'.(÷‰Îé
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì„…çÿÿÿÿÿ8éõ‹ ï/

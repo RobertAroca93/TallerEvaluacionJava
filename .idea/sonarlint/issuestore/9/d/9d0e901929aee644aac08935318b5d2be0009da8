@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(å¿Âˆ
+m	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ÙóéÖûÿÿÿÿ8Ë‘Ÿï/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñÅ±üıÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥¶½ü8ÍÇŸï/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(å¿Âˆ8õö‘Ÿï/
+0
+java:S1220""Move this file to a named package.
